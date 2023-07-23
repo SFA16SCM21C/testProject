@@ -1,0 +1,34 @@
+/* my-component.component.css */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px; /* Adjust the margin as needed for spacing between columns */
+}
+
+.col {
+  flex-basis: calc(33.33% - 20px); /* Adjust the width of each column */
+  margin: 10px; /* Adjust the margin as needed for spacing between columns */
+}
+/* my-component.component.css */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px; /* Adjust the margin as needed for spacing between columns */
+}
+
+.col {
+  flex-basis: calc(33.33% - 20px); /* Adjust the width of each column */
+  margin: 10px; /* Adjust the margin as needed for spacing between columns */
+}
